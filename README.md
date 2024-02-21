@@ -22,3 +22,9 @@ etc.
 
 I choose this one in the hope that it will fit better in the box I have and because it has a USB-C socket:
 aliexpress.com/item/1005005865107357.html
+
+
+# For more info
+https://github.com/rzeldent/esp32-smartdisplay
+https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display
+https://github.com/NoosaHydro/2.4inch_ESP32-2432S024
