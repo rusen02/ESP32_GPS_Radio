@@ -11,16 +11,24 @@ It modulates pre-written texts for radio.
 
 # Materials
 Ublox NEO-6M GPS
+
 ESP32 CYD
+
 SD Card
+
 Box
+
 Analog Radio
+
 Wire
+
 Solder
+
 etc.
 
 
 I choose this one in the hope that it will fit better in the box I have and because it has a USB-C socket:
+
 aliexpress.com/item/1005005865107357.html
 
 
